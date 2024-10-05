@@ -1,1 +1,1 @@
-export const BASE_URL = "http://<elastic-ip>:8080";
+export const BASE_URL = "http://3.90.127.38:8080";
